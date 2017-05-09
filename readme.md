@@ -27,3 +27,8 @@ This is all cool but here are a few important limitations.
 ## Forking ##
 
 Feel free to send pull requests and fork away but please push your branches back to this repo as you are working. I'm new to this whole github thing but I'm going to guess that I will be fairly picky when it comes to how code is architected and even formatted for that matter. It would totally suck if you put a lot of time into a feature only to have me not merge it into the main branch because it doesn't follow the path and level of quality I'm envisioning for this tool. Push early and often so we can review feature and bounce ideas off each other. 
+
+<a href="https://githubsfdeploy.herokuapp.com/app/githubdeploy/Salesforce-Repository">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
